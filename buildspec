@@ -1,0 +1,18 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      dotnet: 6.0
+  pre_build:
+    commands:
+      - echo "Pre-build phase"
+  build:
+    commands:
+      - dotnet restore
+      - dotnet build --configuration Release
+artifacts:
+  files:
+    - '**/*'
+  base-directory: WebLearning/bin/Release/net6.0/publish
+  discard-paths: yes

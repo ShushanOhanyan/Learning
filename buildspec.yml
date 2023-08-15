@@ -7,12 +7,15 @@ phases:
   pre_build:
     commands:
       - echo "Pre-build phase"
+      - dotnet restore
   build:
     commands:
       - dotnet restore
       - dotnet build --configuration Release
+  post_build:
+    commands:
+      - dotnet publish --configuration Release --output artifacts
 artifacts:
   files:
-    - '**/*'
-  base-directory: WebLearning/bin/Release/net6.0/publish
+    - artifacts/**/*  
   discard-paths: yes

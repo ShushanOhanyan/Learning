@@ -1,0 +1,12 @@
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/bin/Debug/net6.0/Learning.Service.deps.json
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/bin/Debug/net6.0/Learning.Service.dll
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/bin/Debug/net6.0/Learning.Service.pdb
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/Learning.Service.csproj.AssemblyReference.cache
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/Learning.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/Learning.Service.AssemblyInfoInputs.cache
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/Learning.Service.AssemblyInfo.cs
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/Learning.Service.csproj.CoreCompileInputs.cache
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/Learning.Service.dll
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/refint/Learning.Service.dll
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/Learning.Service.pdb
+/Users/sohanyan/Desktop/Learn/Learning/Learning.Service/obj/Debug/net6.0/ref/Learning.Service.dll

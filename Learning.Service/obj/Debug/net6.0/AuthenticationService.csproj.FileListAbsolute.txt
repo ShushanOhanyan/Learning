@@ -1,0 +1,12 @@
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/bin/Debug/net6.0/AuthenticationService.deps.json
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/bin/Debug/net6.0/AuthenticationService.dll
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/bin/Debug/net6.0/AuthenticationService.pdb
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/AuthenticationService.csproj.AssemblyReference.cache
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/AuthenticationService.AssemblyInfoInputs.cache
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/AuthenticationService.AssemblyInfo.cs
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/AuthenticationService.csproj.CoreCompileInputs.cache
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/AuthenticationService.dll
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/refint/AuthenticationService.dll
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/AuthenticationService.pdb
+/Users/sohanyan/Desktop/Learn/Learning/AuthenticationService/obj/Debug/net6.0/ref/AuthenticationService.dll

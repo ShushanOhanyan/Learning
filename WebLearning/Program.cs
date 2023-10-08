@@ -9,9 +9,12 @@ namespace WebLearning
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
+                .ConfigureWebHostDefaults(webBuilder => {
+                    webBuilder.UseContentRoot(Path.GetDirectoryName(typeof(Program).Assembly.Location)!)
+                        .ConfigureAppConfiguration((ctx, conf) => {
+                            conf.AddJsonFile("learningApiAppSettings.json", optional: true, reloadOnChange: true);
+                        })
+                        .UseStartup<Startup>();
                 });
     }
 }

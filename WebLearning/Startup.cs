@@ -1,3 +1,6 @@
+using AuthenticationService;
+using AuthenticationService.Models;
+
 namespace WebLearning;
 
 public class Startup
@@ -13,6 +16,13 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddControllersWithViews();
+
+        services.AddScoped<IAuthenticationService, GoogleAuthService>();
+        services.AddScoped<ICalendarService, GoogleCalendarService>();
+        
+        services.AddOptions<GoogleApiConfig>()
+            .Bind(Configuration.GetSection(GoogleAuthService.ConfigSectionName));
+
         // Add other services here as needed
     }
 

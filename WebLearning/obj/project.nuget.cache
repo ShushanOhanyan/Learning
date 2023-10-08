@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "K9rg3tWsSwHB7JnHqNjY1plZ/50WZyMliofnhhbesFUrxAlSxOKdIg1hZwOPJJXJUTEj13L8JcP3cpjVghSkoQ==",
+  "dgSpecHash": "pTTaQq+TsslnUrJ+dg59IOCXFj9Pt5jFWwzXNTPgknpkrx6onbCGs0KiDm1kGH5poRraN2c33mYQrnHK7Yy/QQ==",
   "success": true,
   "projectFilePath": "/Users/sohanyan/Desktop/Learn/Learning/WebLearning/WebLearning.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sohanyan/.nuget/packages/google.apis/1.62.0/google.apis.1.62.0.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/google.apis.auth/1.62.0/google.apis.auth.1.62.0.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/google.apis.calendar.v3/1.62.0.3171/google.apis.calendar.v3.1.62.0.3171.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/google.apis.core/1.62.0/google.apis.core.1.62.0.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/google.apis.oauth2.v2/1.62.0.1869/google.apis.oauth2.v2.1.62.0.1869.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.extensions.configuration/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0-rc.1.23419.4/microsoft.extensions.configuration.binder.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.extensions.primitives/8.0.0-rc.1.23419.4/microsoft.extensions.primitives.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.identitymodel.abstractions/7.0.2/microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.2/microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.identitymodel.logging/7.0.2/microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/microsoft.identitymodel.tokens/7.0.2/microsoft.identitymodel.tokens.7.0.2.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/system.identitymodel.tokens.jwt/7.0.2/system.identitymodel.tokens.jwt.7.0.2.nupkg.sha512",
+    "/Users/sohanyan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

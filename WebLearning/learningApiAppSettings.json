@@ -1,0 +1,9 @@
+{
+  "GoogleApi": {    
+    "AuthorizationMethod": "OAuth2",
+    "OAuth2Mode": "APPLICATION",
+    "OAuth2ClientId": "568676517490-5k4ightoer237629kdqfpdsc1dhiqs0h.apps.googleusercontent.com",
+    "OAuth2ClientSecret": "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",
+    "OAuth2Scope": "email https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/calendar.events.readonly https://www.googleapis.com/auth/calendar.events"
+  }
+}

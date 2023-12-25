@@ -27,10 +27,11 @@ public class GoogleCalendarService : ICalendarService
             HttpClientInitializer = _authenticationService.GetUserCredential(refreshToken)
         });
 
-       GetEvents(service, email, 100);
+       GetEvents(service, email, 100);///
+       
+       // git test, will be removed
 
-
-        return Task.FromResult(GetEvents(service, email, maxEvents));
+       return Task.FromResult(GetEvents(service, email, maxEvents));
     }
     
     private List<CalendarEvent> GetEvents(CalendarService service, string calendarId, int maxEvents)

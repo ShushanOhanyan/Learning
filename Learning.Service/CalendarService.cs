@@ -1,9 +1,4 @@
 using AuthenticationService.Models;
-using Google.Apis.Auth.OAuth2;
-using Google.Apis.Services;
-using System;
-using System.IO;
-using Google.Apis.Auth.OAuth2;
 using Google.Apis.Calendar.v3;
 using Google.Apis.Calendar.v3.Data;
 using Google.Apis.Services;

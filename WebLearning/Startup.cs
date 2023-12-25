@@ -20,6 +20,8 @@ public class Startup
         services.AddScoped<IAuthenticationService, GoogleAuthService>();
         services.AddScoped<ICalendarService, GoogleCalendarService>();
         
+
+
         services.AddOptions<GoogleApiConfig>()
             .Bind(Configuration.GetSection(GoogleAuthService.ConfigSectionName));
 

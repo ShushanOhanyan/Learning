@@ -25,7 +25,7 @@ public class GoogleCalendarService : ICalendarService
        GetEvents(service, email, 100);
 
 
-        return Task.FromResult(GetEvents(service, email, maxEvents));
+       return Task.FromResult(GetEvents(service, email, maxEvents));
     }
     
     private List<CalendarEvent> GetEvents(CalendarService service, string calendarId, int maxEvents)

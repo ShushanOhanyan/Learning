@@ -9,7 +9,6 @@ public class Startup
     {
         Configuration = configuration;
     }
-
     public IConfiguration Configuration { get; }
 
     // This method is used to configure services that the application will use.
@@ -42,7 +41,6 @@ public class Startup
 
         // Serve static files (css, js, images, etc.)
         app.UseStaticFiles();
-
         app.UseRouting();
 
         app.UseEndpoints(endpoints =>
